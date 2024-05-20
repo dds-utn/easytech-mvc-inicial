@@ -1,6 +1,6 @@
 package ar.utn.ba.dds.easytech.controllers;
 
-import ar.utn.ba.dds.easytech.dtos.inputs.alquileres.CategoriaDispositivoInputDTO;
+import ar.utn.ba.dds.easytech.dtos.inputs.dispositivos.CategoriaDispositivoInputDTO;
 import ar.utn.ba.dds.easytech.models.entities.usuarios.Usuario;
 import ar.utn.ba.dds.easytech.services.ICategoriasService;
 

@@ -1,4 +1,4 @@
-package ar.utn.ba.dds.easytech.dtos.outputs.alquileres;
+package ar.utn.ba.dds.easytech.dtos.outputs.dispositivos;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
