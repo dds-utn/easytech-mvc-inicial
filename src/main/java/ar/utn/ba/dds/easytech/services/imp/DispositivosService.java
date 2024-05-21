@@ -74,7 +74,7 @@ public class DispositivosService implements IDispositivoService {
     @Override
     public void eliminar(Long id, Usuario usuario) {
         //Verificamos si el usuario que está ejecutando el Caso de Uso tiene los permisos necesarios
-        verificadorDePermisos.verificarSiUsuarioPuede("CREAR_DISPOSITIVOS", usuario);
+        verificadorDePermisos.verificarSiUsuarioPuede("ELIMINAR_DISPOSITIVOS", usuario);
 
         //Buscamos la instancia a modificar en el repositorio según el ID entrante
         Optional<Dispositivo> posibleDispositivo = this.dispositivosRepository.buscar(id);
