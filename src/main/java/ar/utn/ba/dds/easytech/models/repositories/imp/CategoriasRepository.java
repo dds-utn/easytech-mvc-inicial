@@ -1,7 +1,7 @@
-package ar.utn.ba.dds.easytech.repositories.imp;
+package ar.utn.ba.dds.easytech.models.repositories.imp;
 
 import ar.utn.ba.dds.easytech.models.entities.dispositivos.CategoriaDispositivo;
-import ar.utn.ba.dds.easytech.repositories.ICategoriasRepository;
+import ar.utn.ba.dds.easytech.models.repositories.ICategoriasRepository;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -2,7 +2,7 @@ package ar.utn.ba.dds.easytech.utils.permisos;
 
 import ar.utn.ba.dds.easytech.models.entities.usuarios.Permiso;
 import ar.utn.ba.dds.easytech.models.entities.usuarios.Usuario;
-import ar.utn.ba.dds.easytech.repositories.IPermisosRepository;
+import ar.utn.ba.dds.easytech.models.repositories.IPermisosRepository;
 
 import java.util.Optional;
 

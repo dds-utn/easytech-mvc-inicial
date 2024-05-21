@@ -1,4 +1,4 @@
-package ar.utn.ba.dds.easytech.repositories;
+package ar.utn.ba.dds.easytech.models.repositories;
 
 import ar.utn.ba.dds.easytech.models.entities.dispositivos.CategoriaDispositivo;
 

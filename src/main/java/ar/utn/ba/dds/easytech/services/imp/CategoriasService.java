@@ -4,7 +4,7 @@ import ar.utn.ba.dds.easytech.dtos.inputs.dispositivos.CategoriaDispositivoInput
 import ar.utn.ba.dds.easytech.dtos.outputs.dispositivos.CategoriaDispositivoOutputDTO;
 import ar.utn.ba.dds.easytech.models.entities.dispositivos.CategoriaDispositivo;
 import ar.utn.ba.dds.easytech.models.entities.usuarios.Usuario;
-import ar.utn.ba.dds.easytech.repositories.ICategoriasRepository;
+import ar.utn.ba.dds.easytech.models.repositories.ICategoriasRepository;
 import ar.utn.ba.dds.easytech.services.ICategoriasService;
 import ar.utn.ba.dds.easytech.services.exceptions.CategoriaDispositivoNoEncontradaException;
 import ar.utn.ba.dds.easytech.utils.permisos.VerificadorDePermisos;
